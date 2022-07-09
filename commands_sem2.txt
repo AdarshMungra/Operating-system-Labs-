@@ -1,0 +1,49 @@
+   ls
+   List  information  about  the FILEs
+
+
+   cd
+   grep
+   kill
+   rm
+   find
+   cat 
+   Concatenate FILE(s) to standard output.
+
+
+   mkdir
+   Create the DIRECTORY(ies), if they do not already exist.
+
+
+   cp
+   Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+
+
+   mv
+   Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY.
+
+
+   top
+
+   
+   chmod
+   touch
+   tar
+   ln
+   sudo
+   su
+
+
+   apt
+   ifconfig
+   addusr
+   useradd/usermod/userdel/deluser
+
+   du,dh,free
+   mount /unmount
+
+   pwd
+   cron
+   whoami
+   w
